@@ -1,0 +1,6 @@
+{
+    "clientId" : "3ef1d13e43a34f449452c1fc45e8e9a5",
+    "clientSecret" : "e20cfe570f7f49d5ba0704e9bc26d464",
+    "redirectUri" : "http://localhost:3000/redirect",
+    "accessToken" : ""
+  }

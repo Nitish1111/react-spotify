@@ -1,0 +1,39 @@
+{
+  "name": "react-instafeed",
+  "description": "Realtime Spotify Player built with React.",
+  "version": "0.1.0",
+  "author": "Nitish Kumar",
+  "license": "",
+  "private": true,
+  "dependencies": {
+    "@uprise/button": "^1.2.8",
+    "@uprise/card": "^1.0.0",
+    "@uprise/colors": "^1.0.0",
+    "@uprise/grid": "^1.0.1",
+    "@uprise/image": "^1.0.0",
+    "@uprise/spacing": "^1.0.0",
+    "@uprise/text": "^1.0.8",
+    "jquery": "^3.4.1",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "2.1.8",
+    "spotify-graphql": "^1.4.0",
+    "styled-components": "^5.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
